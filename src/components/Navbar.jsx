@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { NavLink } from "react-router"; 
+import { NavLink } from "react-router";
 import { FaBars } from "react-icons/fa";
 import { IoMdClose } from "react-icons/io";
 import AQTCLogo from "./AQTCLogo";
@@ -11,9 +11,11 @@ const Navbar = () => {
     <>
       {[
         { to: "/", label: "Home" },
-        { to: "/services", label: "Service" },
-        { to: "/about", label: "About" },
+        { to: "/aboutDetails", label: "About Us" },
+
+        { to: "/serviceDetails", label: "Service" },
         { to: "/blog", label: "Blog" },
+        { to: "/contact", label: "Contact Us" },
       ].map((item) => (
         <li key={item.to}>
           <NavLink
@@ -23,7 +25,7 @@ const Navbar = () => {
                 isActive ? "text-green-600" : "text-gray-700"
               }`
             }
-            onClick={() => setIsMenuOpen(false)} 
+            onClick={() => setIsMenuOpen(false)}
           >
             {item.label}
           </NavLink>

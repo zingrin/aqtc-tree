@@ -1,0 +1,479 @@
+[
+  {
+    "id": 1,
+    "title": "Don’t Let Summer Stress Destroy Your Landscape—Fertilize & Protect Now!",
+    "coverImage": "https://i.ibb.co/WD3kRcn/blog1.jpg",
+    "date": "July 15, 2025",
+    "author": "Evergreen Tree Care",
+    "tags": ["Summer", "Fertilization", "Landscape Protection"],
+    "content": [
+      {
+        "type": "h2",
+        "text": "Don’t Let Summer Stress Destroy Your Landscape—Fertilize & Protect Now!"
+      },
+      {
+        "type": "p",
+        "text": "The intense heat and dryness of Colorado summers can wreak havoc on your trees and landscape. July and August are critical months to take action!"
+      },
+      {
+        "type": "h3",
+        "text": "💧 Why Fertilize Now?"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Stimulate deep root growth to find water.",
+          "Boost resistance to heat stress.",
+          "Prepare plants for a strong fall recovery."
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "🐛 Combat Summer Pests"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "July and August bring insects like Japanese Beetles and Spider Mites.",
+          "Prevent infestations before they escalate.",
+          "Organic and pet-safe treatments available!"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "🌿 Protect with Soil Injections"
+      },
+      {
+        "type": "p",
+        "text": "Our custom-blended fertilizer with insect repellent penetrates soil fast—protecting your landscape for the toughest summer months."
+      },
+      {
+        "type": "h3",
+        "text": "🏡 Don’t Wait!"
+      },
+      {
+        "type": "p",
+        "text": "Spots are filling fast for mid-summer service. Book your treatment now and keep your yard healthy through fall."
+      }
+    ],
+    "contact": {
+      "phone": "303-674-8733",
+      "website": "https://www.evergreentreecare.com",
+      "email": "evergreentreecare@gmail.com",
+      "facebook": "https://www.facebook.com/EvergreenTreeCare/"
+    },
+    "relatedPosts": [
+      {
+        "title": "How to Recognize Tree Stress",
+        "date": "July 1, 2025"
+      },
+      {
+        "title": "5 Summer Pests in Colorado & How to Stop Them",
+        "date": "June 20, 2025"
+      },
+      {
+        "title": "Organic Lawn Fertilizing Tips",
+        "date": "May 15, 2025"
+      }
+    ],
+    "commentSection": {
+      "title": "Leave a Reply",
+      "textarea": {
+        "placeholder": "Write your comment...",
+        "rows": 4,
+        "name": "comment"
+      },
+      "submitButton": {
+        "text": "Submit Comment",
+        "className": "px-6 py-2 bg-green-700 text-white rounded hover:bg-amber-900 transition-all"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "The Beetles Are Back: How to Protect Your Colorado Trees This Spring Before It’s Too Late",
+    "coverImage": "https://i.ibb.co/ZB5Mz4W/beetle-blog.jpg",
+    "date": "April 2, 2025",
+    "author": "A Quality Tree Care",
+    "tags": ["Beetles", "Spring", "Tree Protection"],
+    "content": [
+      {
+        "type": "h2",
+        "text": "The Beetles Are Back: How to Protect Your Colorado Trees This Spring Before It’s Too Late"
+      },
+      {
+        "type": "p",
+        "text": "As the mountains wake up from winter, something far more dangerous than melting snow is on the move—bark beetles. From the mountain pine beetle to the spruce and Douglas-fir beetles, these tiny invaders are ready to attack trees across Colorado’s high country."
+      },
+      {
+        "type": "p",
+        "text": "If you live in or near the mountains, spring is your only window to take action before the damage is done."
+      },
+      {
+        "type": "h3",
+        "text": "🚨 Why Spring Is Your Last Line of Defense"
+      },
+      {
+        "type": "p",
+        "text": "By late April and early May, bark beetles begin emerging from trees they infested last summer. As soon as daytime temperatures hit 50°F, they take flight in search of new trees to colonize. If you wait until the damage is visible, it’s already too late."
+      },
+      {
+        "type": "p",
+        "text": "⏳ Now is the time to inspect, treat, and protect your trees."
+      },
+      {
+        "type": "h3",
+        "text": "🪓 Know Your Enemy"
+      },
+      {
+        "type": "section",
+        "heading": "🐞 Mountain Pine Beetle",
+        "sub": "Attacks: Ponderosa, Lodgepole, Limber Pines",
+        "list": [
+          "Introduces deadly blue-stain fungus",
+          "Kills trees within weeks",
+          "Leaves behind pitch tubes and sawdust at the base"
+        ]
+      },
+      {
+        "type": "section",
+        "heading": "🐞 Spruce Beetle",
+        "sub": "Attacks: Engelmann & Blue Spruce",
+        "list": [
+          "Spreads quickly through stressed trees",
+          "Often invisible until crowns turn brown"
+        ]
+      },
+      {
+        "type": "section",
+        "heading": "🐞 Douglas-fir Beetle",
+        "sub": "Attacks: Douglas-fir",
+        "list": [
+          "Targets large, mature trees",
+          "High mortality in drought years"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "🛠️ What You Must Do This Spring"
+      },
+      {
+        "type": "ol",
+        "items": [
+          {
+            "title": "✅ 1. Schedule a Professional Tree Assessment",
+            "text": "If you’re unsure whether your trees are vulnerable, get a licensed arborist on-site now. Early detection is critical. 🗓 Call today to book your spring tree health check."
+          },
+          {
+            "title": "✅ 2. Apply Preventive Treatments Before Beetle Flight",
+            "text": "Protect high-value trees with systemic insecticides or bark sprays. These must be applied before beetles emerge—usually late May through July depending on elevation. 💉 Don’t delay—once beetles bore in, chemical treatments are useless."
+          },
+          {
+            "title": "✅ 3. Remove and Destroy Infested Trees",
+            "text": "If you suspect a tree is already infested, have it removed before new beetles emerge. Chipping, solarizing, or burning infested wood will prevent further spread. 🪓 Contact us for fast, compliant tree removal and disposal."
+          },
+          {
+            "title": "✅ 4. Diversify and Defend Your Landscape",
+            "text": "Consider planting mixed species to reduce future outbreak risk and make your landscape more resilient."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": "🌲 Don’t Let a Beetle Decide the Fate of Your Forest"
+      },
+      {
+        "type": "p",
+        "text": "Colorado’s trees are irreplaceable—but they’re not invincible. With drought and warming temperatures, bark beetles are thriving like never before."
+      },
+      {
+        "type": "p",
+        "text": "🎯 Take action this spring to protect your investment, your property, and the health of Colorado’s forests."
+      }
+    ],
+    "contact": {
+      "phone": "303-378-8273",
+      "website": "https://aqtc.co",
+      "email": "tom@aqtc.co",
+      "facebook": "https://www.facebook.com/aqtc"
+    },
+    "relatedPosts": [
+      {
+        "title": "Spring Tree Fertilization",
+        "date": "March 6, 2025",
+        "tag": "Fertilizer"
+      },
+      {
+        "title": "Don’t Let Summer Stress Destroy Your Landscape—Fertilize & Protect Now!",
+        "date": "July 19, 2025",
+        "tag": "Similar post"
+      },
+      {
+        "title": "Seasonal Tree Care Guide: How to Keep Your Trees Healthy Year-Round",
+        "date": "February 28, 2025",
+        "tag": "Similar post"
+      }
+      
+    ],
+    "commentSection": {
+      "title": "Leave a Reply",
+      "textarea": {
+        "placeholder": "Write your comment...",
+        "rows": 4,
+        "name": "comment"
+      },
+      "submitButton": {
+        "text": "Submit Comment",
+        "className": "px-6 py-2 bg-green-700 text-white rounded hover:bg-amber-900 transition-all"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "How Professional Stump Grinding Improves Your Landscape",
+    "image": "https://i.ibb.co/KvgdHHt/images-q-tbn-ANd9-Gc-Qqq-H0-Wuye-EI3-FPu-Hubz8-EM9kg49-H30-Swk8nw-s.jpg",
+    "shortDescription": "Expert Tree & Landscape Care for Mountain Communities",
+    "fullContent": "Protecting the health and beauty of your landscape is our priority. At American Quality Tree Care LLC, we provide professional tree and lawn care services to keep your outdoor spaces thriving. With over 25 years of experience, our expert team offers customized, sustainable solutions, including tree fertilization, pest management, fire mitigation, and more. Let us help you preserve the natural beauty of your property.",
+    "shareSection": {
+      "divider": true,
+      "shareTitle": "Share this:",
+      "buttons": [
+        {
+          "type": "icon",
+          "label": "X",
+          "icon": "X",
+          "href": "#",
+          "className": "btn btn-sm bg-white border border-gray-300 text-black hover:bg-gray-100"
+        },
+        {
+          "type": "link",
+          "label": "Facebook",
+          "icon": "FaFacebook",
+          "href": "#",
+          "className": "text-blue-600 hover:underline flex items-center gap-1"
+        }
+      ]
+    },
+    "relatedPosts": {
+      "title": "Like this:",
+      "posts": [
+        {
+          "title": "Spring Tree Fertilization",
+          "date": "March 6, 2025",
+          "category": "Fertilizer",
+          "liked": false
+        },
+        {
+          "title": "Don’t Let Summer Stress Destroy Your Landscape—Fertilize & Protect Now!",
+          "date": "July 19, 2025",
+          "category": "Similar post",
+          "liked": false
+        },
+        {
+          "title": "Seasonal Tree Care Guide: How to Keep Your Trees Healthy Year-Round",
+          "date": "February 28, 2025",
+          "category": "Similar post",
+          "liked": false
+        }
+      ]
+    },
+    "commentSection": {
+      "title": "Leave a Reply",
+      "textarea": {
+        "placeholder": "Write your comment...",
+        "rows": 4,
+        "name": "comment"
+      },
+      "submitButton": {
+        "text": "Submit Comment",
+        "className": "px-6 py-2 bg-green-700 text-white rounded hover:bg-amber-900 transition-all"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "title": "Why Fire Mitigation is Essential in Forested Areas",
+    "image": "https://i.ibb.co/NnnnwxN3/treecareprofessional.jpg",
+    "shortDescription": "Expert Tree & Landscape Care for Mountain Communities",
+    "fullContent": "Protecting the health and beauty of your landscape is our priority. At American Quality Tree Care LLC, we provide professional tree and lawn care services to keep your outdoor spaces thriving. With over 25 years of experience, our expert team offers customized, sustainable solutions, including tree fertilization, pest management, fire mitigation, and more. Let us help you preserve the natural beauty of your property.",
+    "shareSection": {
+      "divider": true,
+      "shareTitle": "Share this:",
+      "buttons": [
+        {
+          "type": "icon",
+          "label": "X",
+          "icon": "X",
+          "href": "#",
+          "className": "btn btn-sm bg-white border border-gray-300 text-black hover:bg-gray-100"
+        },
+        {
+          "type": "link",
+          "label": "Facebook",
+          "icon": "FaFacebook",
+          "href": "#",
+          "className": "text-blue-600 hover:underline flex items-center gap-1"
+        }
+      ]
+    },
+    "relatedPosts": {
+      "title": "Like this:",
+      "posts": [
+        {
+          "title": "Spring Tree Fertilization",
+          "date": "March 6, 2025",
+          "category": "Fertilizer",
+          "liked": false
+        },
+        {
+          "title": "Don’t Let Summer Stress Destroy Your Landscape—Fertilize & Protect Now!",
+          "date": "July 19, 2025",
+          "category": "Similar post",
+          "liked": false
+        },
+        {
+          "title": "Seasonal Tree Care Guide: How to Keep Your Trees Healthy Year-Round",
+          "date": "February 28, 2025",
+          "category": "Similar post",
+          "liked": false
+        }
+      ]
+    },
+    "commentSection": {
+      "title": "Leave a Reply",
+      "textarea": {
+        "placeholder": "Write your comment...",
+        "rows": 4,
+        "name": "comment"
+      },
+      "submitButton": {
+        "text": "Submit Comment",
+        "className": "px-6 py-2 bg-green-700 text-white rounded hover:bg-amber-900 transition-all"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "The Importance of Seasonal Tree Fertilization",
+    "image": "https://i.ibb.co/VY9YMm1M/The-Ultimate-Guide-to-Lawn-Care-for-Beginners-Blog-Featured-Image.jpg",
+    "shortDescription": "Expert Tree & Landscape Care for Mountain Communities",
+    "fullContent": "Protecting the health and beauty of your landscape is our priority. At American Quality Tree Care LLC, we provide professional tree and lawn care services to keep your outdoor spaces thriving. With over 25 years of experience, our expert team offers customized, sustainable solutions, including tree fertilization, pest management, fire mitigation, and more. Let us help you preserve the natural beauty of your property.",
+    "shareSection": {
+      "divider": true,
+      "shareTitle": "Share this:",
+      "buttons": [
+        {
+          "type": "icon",
+          "label": "X",
+          "icon": "X",
+          "href": "#",
+          "className": "btn btn-sm bg-white border border-gray-300 text-black hover:bg-gray-100"
+        },
+        {
+          "type": "link",
+          "label": "Facebook",
+          "icon": "FaFacebook",
+          "href": "#",
+          "className": "text-blue-600 hover:underline flex items-center gap-1"
+        }
+      ]
+    },
+    "relatedPosts": {
+      "title": "Like this:",
+      "posts": [
+        {
+          "title": "Spring Tree Fertilization",
+          "date": "March 6, 2025",
+          "category": "Fertilizer",
+          "liked": false
+        },
+        {
+          "title": "Don’t Let Summer Stress Destroy Your Landscape—Fertilize & Protect Now!",
+          "date": "July 19, 2025",
+          "category": "Similar post",
+          "liked": false
+        },
+        {
+          "title": "Seasonal Tree Care Guide: How to Keep Your Trees Healthy Year-Round",
+          "date": "February 28, 2025",
+          "category": "Similar post",
+          "liked": false
+        }
+      ]
+    },
+    "commentSection": {
+      "title": "Leave a Reply",
+      "textarea": {
+        "placeholder": "Write your comment...",
+        "rows": 4,
+        "name": "comment"
+      },
+      "submitButton": {
+        "text": "Submit Comment",
+        "className": "px-6 py-2 bg-green-700 text-white rounded hover:bg-amber-900 transition-all"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "title": "Tree Pruning Techniques That Boost Tree Health",
+    "image": "https://i.ibb.co/Pv5CcLCr/images-q-tbn-ANd9-Gc-Sh-Wf-Tk-OVTm-WKJh-Uxzlib-DNYXJVGuon-Vknx-F5-FQ8-PA1ql0-Xy-Ox-UUTFb7-HT1v-Ha-L3.jpg",
+    "shortDescription": "Expert Tree & Landscape Care for Mountain Communities",
+    "fullContent": "Protecting the health and beauty of your landscape is our priority. At American Quality Tree Care LLC, we provide professional tree and lawn care services to keep your outdoor spaces thriving. With over 25 years of experience, our expert team offers customized, sustainable solutions, including tree fertilization, pest management, fire mitigation, and more. Let us help you preserve the natural beauty of your property.",
+    "shareSection": {
+      "divider": true,
+      "shareTitle": "Share this:",
+      "buttons": [
+        {
+          "type": "icon",
+          "label": "X",
+          "icon": "X",
+          "href": "#",
+          "className": "btn btn-sm bg-white border border-gray-300 text-black hover:bg-gray-100"
+        },
+        {
+          "type": "link",
+          "label": "Facebook",
+          "icon": "FaFacebook",
+          "href": "#",
+          "className": "text-blue-600 hover:underline flex items-center gap-1"
+        }
+      ]
+    },
+    "relatedPosts": {
+      "title": "Like this:",
+      "posts": [
+        {
+          "title": "Spring Tree Fertilization",
+          "date": "March 6, 2025",
+          "category": "Fertilizer",
+          "liked": false
+        },
+        {
+          "title": "Don’t Let Summer Stress Destroy Your Landscape—Fertilize & Protect Now!",
+          "date": "July 19, 2025",
+          "category": "Similar post",
+          "liked": false
+        },
+        {
+          "title": "Seasonal Tree Care Guide: How to Keep Your Trees Healthy Year-Round",
+          "date": "February 28, 2025",
+          "category": "Similar post",
+          "liked": false
+        }
+      ]
+    },
+    "commentSection": {
+      "title": "Leave a Reply",
+      "textarea": {
+        "placeholder": "Write your comment...",
+        "rows": 4,
+        "name": "comment"
+      },
+      "submitButton": {
+        "text": "Submit Comment",
+        "className": "px-6 py-2 bg-green-700 text-white rounded hover:bg-amber-900 transition-all"
+      }
+    }
+  }
+]

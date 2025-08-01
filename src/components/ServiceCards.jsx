@@ -88,7 +88,7 @@ const ServiceCards = () => {
               </h3>
               <p className="text-gray-600 mb-6 flex-grow">{description}</p>
               <Link
-                to={link}
+                to="/serviceDetails"
                 className="text-green-700 font-semibold hover:underline"
               >
                 LEARN MORE

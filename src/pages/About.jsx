@@ -1,4 +1,5 @@
 import React from "react";
+import { useNavigate } from "react-router";
 
 // Leaf underline component
 const LeafUnderline = () => (
@@ -17,6 +18,8 @@ const LeafUnderline = () => (
 );
 
 const About = () => {
+    const navigate = useNavigate();
+
   return (
     <section className="max-w-7xl mx-auto px-4 sm:px-6 md:px-12 py-12 md:py-16 flex flex-col md:flex-row items-center gap-8 md:gap-12">
       {/* Left: Text content */}
@@ -37,6 +40,8 @@ const About = () => {
         </p>
 
         <button
+              onClick={() => navigate("/aboutDetails")}
+
           className="btn bg-green-700 text-white border-none px-6 py-2 text-sm sm:text-base
           hover:bg-amber-900 hover:-translate-y-1 transition-all duration-300 ease-in-out transform"
         >
